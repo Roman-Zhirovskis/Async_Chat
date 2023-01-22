@@ -3,3 +3,4 @@ channels
 black
 flake8
 python-dotenv
+daphne

@@ -1,1 +1,1 @@
-# Try to made asyncronic chat
+# Trying to make asynchronous chat
